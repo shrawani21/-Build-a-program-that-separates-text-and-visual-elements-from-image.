@@ -1,5 +1,5 @@
-# -Build-a-program-that-separates-text-and-visual-elements-from-image.
-Goal: Build a program that separates text and visual elements from image.
+# Build-a-program-that-separates-text-and-visual-elements-from-image.
+
 Assignment Breakdown:
 
 Image Analysis: The program will leverage any available Vision API to analyze the uploaded image.
